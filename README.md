@@ -1,4 +1,3 @@
-# AWS-CI-CD-Pipeline-Full-Stack-Application-Deployment
 # AWS CI/CD Pipeline – Full-Stack Application Deployment Using AWS CodeBuild, CodeDeploy & CodePipeline
 
 ## 1. Project Overview
